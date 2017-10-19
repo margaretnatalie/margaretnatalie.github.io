@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+.clearfix:after {
+   content: "";
+  display: table;
+  clear: both;
+}
+body{
+	background-color: #F8B9B9;
+	font-family: 'Sorts Mill Goudy', serif;
+	padding-top: 15%;
+	margin: 0 auto;
+
+}
+
+article {
+	text-align: center;
+	color: #95989A;
+	background-color: #F8E2F1;
+	margin: 5%;
+	padding: 75px 200px;
+}
+.firstpage_link {
+	text-decoration: none;
+	color: #95989A;
+	font-weight: 100;
+}
